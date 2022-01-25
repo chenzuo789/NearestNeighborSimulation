@@ -1,6 +1,8 @@
 # Nearest Neighbor Simulation V1.0
 This is the python repository for geostatistical modeling with nearest neighbor simulation
 
+In current state, we focus on the stochastic simulation with categorical variables
+
 # Technical improvements:
 Compared with other multiple-point statistics (MPS) programs, there are three main technical improvements within NNSIM:
 
@@ -24,7 +26,7 @@ There are three simulation applications in this repository:
 # Author:
 Chen Zuo is a lecturer at the Chang'an University in China.
 
-Dependencies:
+# Dependencies:
 Scikit learn >= 0.23
 Numpy >= 1.21.2
 Scipy >= 1.7.1
