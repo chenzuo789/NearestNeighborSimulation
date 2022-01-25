@@ -29,3 +29,6 @@ Scikit learn >= 0.23
 Numpy >= 1.21.2
 Scipy >= 1.7.1
 Matplotlib >= 3.5.0
+
+# Contact
+Feel free to contact me at chenzuo789@outlook.com.
