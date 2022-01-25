@@ -2,7 +2,7 @@
 This is the python repository for geostatistical modeling with nearest neighbor simulation
 
 # Technical improvements:
-Compared with other multiple-point statistics (MPS) programs, there are three main technical improvements:
+Compared with other multiple-point statistics (MPS) programs, there are three main technical improvements within NNSIM:
 
 (1) We introduce a prototype selection called fast condensed nearest neigbhor (FCNN) into MPS framework.
 Compared with other pattern selection methods in MPS, our program finds representative patterns according to their influence on the simulation quality.
